@@ -18,7 +18,7 @@ Ese simbolo de las operaciones aritmeticas encerradas en un circulo, **represent
 
 Como se observa en el procedimiento, en cada operacion que se vaya a realizar, se redondea su resultado, esto se aplica en cada paso de la operacion
 
-- Si un numero resulta mas extenso de lo que se requirio, se redondea o se trunca, en este caso especifico se redondeo a cuatro cifras significativas
+-   Si un numero resulta mas extenso de lo que se requirio, se redondea o se trunca, en este caso especifico se redondeo a cuatro cifras significativas
 
 ![](images/paste-4.png)
 
@@ -48,7 +48,11 @@ Otros ejercicios:
 
 ### Criterios de parada
 
-Son  criterios que se utilizan para evitar que el algoritmo se ejecute indefinidamente, es decir, que no se detenga nunca. Estos criterios son importantes para garantizar que el algoritmo termine en un tiempo razonable y produzca un resultado útil.
+Son criterios que se utilizan para evitar que el algoritmo se ejecute indefinidamente, es decir, que no se detenga nunca. Estos criterios son importantes para garantizar que el algoritmo termine en un tiempo razonable y produzca un resultado útil.
 
 ![Criterios de parada](image.png)
+
+![alt text](image-1.png)
+
+## Clase 05/05/2025
 
